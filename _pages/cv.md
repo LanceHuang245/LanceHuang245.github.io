@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /
 author_profile: true
 redirect_from:
@@ -13,7 +13,7 @@ Education
 ======
 *   **Bachelor of Engineering in Computer Application Engineering**
     *   Quanzhou Vocational and Technical University, Quanzhou, Fujian
-    *   *Expected Graduation: June 2026*
+    *   *Sep 2022 - Jun 2026*
     *   *GPA: 80/100*
 
 Experience & Projects
