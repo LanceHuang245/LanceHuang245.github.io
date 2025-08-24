@@ -49,11 +49,11 @@ Skills
 ======
 *   **Programming Languages**
     *   Proficient: Golang, Dart, Python
-    *   Familiar: Vue.js, JavaScript, C++, Rust, PHP
+    *   Familiar: Vue.js, JavaScript, C++
 *   **Frameworks & Tools**
     *   Backend: Flask, RabbitMQ, Consul, Redis, MySQL
     *   Frontend: Vue.js, Flutter
-    *   AI & ML: PyTorch, Transformers
+    *   AI & ML: PyTorch, Tensorflow, Transformers
 *   **DevOps & Cloud**
     *   Containerization & Orchestration: Docker
     *   CI/CD: Basic CI/CD pipelines with Git
