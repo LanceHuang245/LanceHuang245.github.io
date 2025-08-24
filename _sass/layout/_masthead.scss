@@ -45,11 +45,16 @@
 }
 
 .masthead__menu {
+  display: flex;
+  align-items: center;
+
+  nav {
+    flex: 1;
+  }
 
   ul {
     margin: 0;
     padding: 0;
-    clear: both;
     list-style-type: none;
   }
 }
@@ -64,4 +69,9 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+#theme-toggle a {
+  color: var(--global-masthead-link-color);
+  cursor: pointer;
 }
