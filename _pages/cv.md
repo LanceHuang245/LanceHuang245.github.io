@@ -28,10 +28,19 @@ Experience & Projects
     *   Developed a cross-platform global weather application for iOS and Android using **Flutter** and a **Golang** backend.
     *   Implemented backend services with **Redis** for data caching to ensure reliable and fast global data access.
     *   Created custom Android desktop widgets for real-time weather display.
+......
  
 <p style="text-align: center;">
   <a href="https://github.com/LanceHuang245" target="_blank" rel="noopener noreferrer" class="btn">View More Projects on GitHub</a>
 </p>
+
+Internships
+======
+* **Xiamen BitDinosaur Technology Co., Ltd.** (2025.09 - 2026.02)
+    *   Assist in drafting functional specifications and envision future required features
+    *   Optimized the database by refactoring tables and views to improve performance and support new features
+    *   Analyzing database schemas, and planning for future feature integration (e.g. Account risk detection)
+    *   Engineered an automated risk-monitoring feature using Go and PGSQL views to detect anomalous account and IP behavior
 
 Publications
 ======
@@ -51,7 +60,7 @@ Skills
     *   Proficient: Golang, Dart, Python
     *   Familiar: Vue.js, JavaScript, C++
 *   **Frameworks & Tools**
-    *   Backend: Flask, RabbitMQ, Consul, Redis, MySQL
+    *   Backend: Flask, RabbitMQ, Consul, Redis, MySQL, PostgreSQL
     *   Frontend: Vue.js, Flutter
     *   AI & ML: PyTorch, Tensorflow, Transformers
 *   **DevOps & Cloud**
@@ -64,4 +73,4 @@ Skills
 Languages
 ======
 *   **Chinese (Mandarin):** Native
-*   **English:** IELTS 5.5 (Listening 5.5, Reading 6.5, Writing 5.5, Speaking 5.0)
+*   **English:** IELTS 5.5, B2
