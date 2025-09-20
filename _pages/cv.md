@@ -19,10 +19,14 @@ Education
 Experience & Projects
 ======
 *   **Feas Online Judge - Independent Developer** (2024.05 - Present)
-    *   Designed and implemented backend microservices in **Golang**, containerized with **Docker** pooling to support 5x concurrent submissions.
-    *   Optimized the judging system using asynchronous messaging (**RabbitMQ**) and **Redis** caching, increasing throughput by 4x.
-    *   Developed and integrated `ImageGuard` (image classification) and `ProfanityDetector` (text filtering) models, reducing content violations by over 82%.
-    *   Built the front-end in **Vue.js**, implementing real-time status updates via SSE and a user discussion forum.
+    * Architected and developed a Go-based microservices backend for a high-throughput Online Judge system, boosting
+    concurrent submission capacity by 500% through a novel Docker container pooling strategy
+    * Engineered RabbitMQ-based asynchronous judging pipeline, improving throughput 4× and reducing queue latency
+    * Designed, trained, and deployed two ML models (ImageGuard for image moderation & ProfanityDetector for text
+    filtering), reducing content violations by ~85%
+    * Developed a comprehensive user platform with Vue, featuring real-time submission tracking via SSE and community
+    forums, successfully fostering user engagement
+    * Supported languages: Java, C++, Python, Pascal, Rust, PHP
 
 *   **Zephyr - Independent Developer** (2023.06 - Present)
     *   Developed a cross-platform global weather application for iOS and Android using **Flutter** and a **Golang** backend.
@@ -36,11 +40,14 @@ Experience & Projects
 
 Internships
 ======
-* **Xiamen BitDinosaur Technology Co., Ltd.** (2025.09 - 2026.02)
-    *   Assist in drafting functional specifications and envision future required features
-    *   Optimized the database by refactoring tables and views to improve performance and support new features
-    *   Analyzing database schemas, and planning for future feature integration (e.g. Account risk detection)
-    *   Engineered an automated risk-monitoring feature using Go and PGSQL views to detect anomalous account and IP behavior
+* **Xiamen BitDinosaur Technology Co., Ltd.** (2025.09 - Present)
+    * Engineered a proactive risk-monitoring module in Go using complex PostgreSQL views to automatically identify and
+    flag anomalous account and IP activities, significantly enhancing platform security
+    * Optimized API performance by restructuring user data views, reducing API response times by over 99% (from 1,200ms
+    to <10ms) and tangibly improving user experience
+    * Designed and implemented a suite of APIs to provide real-time data for an internal management dashboard, directly
+    supporting strategic decision-making for the leadership team
+    * Contributed to product development by co-authoring functional specifications and proposing key features.
 
 Publications
 ======
