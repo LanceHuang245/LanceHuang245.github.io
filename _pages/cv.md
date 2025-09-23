@@ -13,7 +13,7 @@ Education
 ======
 *   **Bachelor of Engineering in Computer Application Engineering**
     *   Quanzhou Vocational and Technical University, Quanzhou, Fujian
-    *   *Sep 2022 - Jun 2026*
+    *   *Sep 2022 - Expected June 2026*
     *   *GPA: 80/100*
 
 Experience & Projects
@@ -76,8 +76,3 @@ Skills
     *   Infrastructure: Linux server administration, Nginx
 *   **Machine Learning**
     *   Model training & fine-tuning, data preprocessing, evaluation metrics
-
-Languages
-======
-*   **Chinese (Mandarin):** Native
-*   **English:** IELTS 5.5, B2
