@@ -6,7 +6,6 @@ permalink: /publication/2025-oj-performance-optimization
 excerpt: 'This paper proposes an optimization strategy based on container pooling for Online Judging systems to address the significant startup delays and resource wastage associated with creating new containers for each submission. By pre-creating “hot containers” and resetting their environment after each task, this approach eliminates the need to restart a container for every submission, greatly improving resource utilization and system reliability.'
 date: 2025-09-24
 venue: 'Chinese Journal of Conputer Application'
-slidesurl: ''
 paperurl: 'http://jsjyywz.ijournals.cn/jsjyywz/article/pdf/20251837'
 citation: 'Linxing Huang. &quot;Research on performance optimization of online evaluation based on Golang and Docker container pool.&quot; <i>Chinese Journal of Conputer Application</i>, 2025(18).'
 ---
