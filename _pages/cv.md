@@ -14,7 +14,7 @@ Education
 *   **Bachelor of Engineering in Computer Application Engineering**
     *   Quanzhou Vocational and Technical University, Quanzhou, Fujian
     *   *Sep 2022 - Expected June 2026*
-    *   *GPA: 80/100*
+    *   *GPA: 80.56/100*
 
 Experience & Projects
 ======
