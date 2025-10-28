@@ -47,7 +47,7 @@ Internships
     to <10ms) and tangibly improving user experience
     * Designed and implemented a suite of APIs to provide real-time data for an internal management dashboard, directly
     supporting strategic decision-making for the leadership team
-    * Contributed to product development by co-authoring functional specifications and proposing key features.
+    * Rewrite the core notification service using Go, leveraging gRPC and NATS to achieve an extremely high-concurrency notification service capable of template rendering.
 
 Publications
 ======
