@@ -40,14 +40,13 @@ Experience & Projects
 
 Internships
 ======
-* **Xiamen BitDinosaur Technology Co., Ltd.** (2025.09 - Present)
+* **Xiamen Xunlian Information Technology Co., Ltd. (Bitdinosaur Technology Co., Ltd.)** (2025.09 - Present)
     * Engineered a proactive risk-monitoring module in Go using complex PostgreSQL views to automatically identify and
     flag anomalous account and IP activities, significantly enhancing platform security
-    * Optimized API performance by restructuring user data views, reducing API response times by over 99% (from 1,200ms
-    to <10ms) and tangibly improving user experience
-    * Designed and implemented a suite of APIs to provide real-time data for an internal management dashboard, directly
-    supporting strategic decision-making for the leadership team
-    * Rewrite the core notification service using Go, leveraging gRPC and NATS to achieve an extremely high-concurrency notification service capable of template rendering.
+    * Optimized API performance by restructuring user data views, reducing API response times by over 99% (from 1,700ms
+    to <180ms) and tangibly improving user experience
+    * Designed and implemented a comprehensive backend data dashboard API, providing real-time data support for internal management and on-chain address risk tracking capabilities
+    * Re-engineered notification push, IAM, and subscription systems based on microservices architecture, doubling scalability and maintainability while adding features like notification template rendering
 
 Publications
 ======
