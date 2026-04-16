@@ -14,7 +14,7 @@ Education
 *   **Bachelor of Engineering in Computer Application Engineering**
     *   Quanzhou Vocational and Technical University, Quanzhou, Fujian
     *   *Sep 2022 - Expected June 2026*
-    *   *GPA: 80.56/100*
+    *   *GPA: 80.79/100*
 
 Experience & Projects
 ======
@@ -40,7 +40,7 @@ Experience & Projects
 
 Internships
 ======
-* **Xiamen Xunlian Information Technology Co., Ltd. (Bitdinosaur Technology Co., Ltd.)** (2025.09 - Present)
+* **Xiamen Xunlian Information Technology Co., Ltd. (Bitdinosaur Technology Co., Ltd.)** (2025.09 - 2026.03)
     * Engineered a proactive risk-monitoring module in Go using complex PostgreSQL views to automatically identify and
     flag anomalous account and IP activities, significantly enhancing platform security
     * Optimized API performance by restructuring user data views, reducing API response times by over 99% (from 1,700ms
