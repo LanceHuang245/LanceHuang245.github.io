@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /
 author_profile: true
 redirect_from:
@@ -9,69 +9,92 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+My research interests center on machine learning and its practical applications, with a particular focus on the systems infrastructure that supports efficient model development and deployment. I am broadly interested in distributed systems, high-performance computing, and the intersection of compiler design with modern ML frameworks and execution runtimes.
+
 Education
 ======
-*   **Bachelor of Engineering in Computer Application Engineering**
-    *   Quanzhou Vocational and Technical University, Quanzhou, Fujian
-    *   *Sep 2022 - Expected June 2026*
-    *   *GPA: 80.79/100*
+**Bachelor of Engineering, Computer Application Engineering**  
+Quanzhou Vocational and Technical University, Quanzhou, Fujian, China  
+September 2022 – June 2026 | GPA: 80.92/100
 
-Experience & Projects
+Technical Projects
 ======
-*   **Feas Online Judge - Independent Developer** (2024.05 - Present)
-    * Architected and developed a Go-based microservices backend for a high-throughput Online Judge system, boosting
-    concurrent submission capacity by 500% through a novel Docker container pooling strategy
-    * Engineered RabbitMQ-based asynchronous judging pipeline, improving throughput 4× and reducing queue latency
-    * Designed, trained, and deployed two ML models (ImageGuard for image moderation & ProfanityDetector for text
-    filtering), reducing content violations by ~85%
-    * Developed a comprehensive user platform with Vue, featuring real-time submission tracking via SSE and community
-    forums, successfully fostering user engagement
-    * Supported languages: Java, C++, Python, Pascal, Rust, PHP
 
-*   **Zephyr - Independent Developer** (2023.06 - Present)
-    *   Developed a cross-platform global weather application for iOS and Android using **Flutter** and a **Golang** backend.
-    *   Implemented backend services with **Redis** for data caching to ensure reliable and fast global data access.
-    *   Created custom Android desktop widgets for real-time weather display.
-......
- 
+**Feas Online Judge** *(May 2024 – Present)*  
+*Independent Developer*
+
+A production-grade online judge system for competitive programming, implemented as a Go-based microservices architecture with an emphasis on high concurrency and automated content moderation.
+
+- Designed a Docker container pooling strategy that increased concurrent code
+  evaluation capacity by 500%
+- Engineered an asynchronous judging pipeline via RabbitMQ, achieving a
+  four-fold improvement in system throughput and a substantial reduction in
+  queue latency
+- Developed and deployed two domain-specific ML models—*ImageGuard* (image
+  moderation) and *ProfanityDetector* (text filtering)—reducing content policy
+  violations by approximately 85%
+- Implemented a real-time user platform in Vue.js with live submission tracking
+  via Server-Sent Events (SSE) and integrated community forums
+- Supports evaluation of solutions in Java, C++, Python, Pascal, Rust, and PHP
+
+**Zephyr** *(June 2023 – Present)*  
+*Independent Developer*
+
+A cross-platform weather application for iOS and Android, developed with
+Flutter and a Golang backend service.
+
+- Implemented Redis-based data caching to ensure low-latency access to global
+  weather data
+- Designed custom Android home-screen widgets for ambient real-time weather
+  display
+
 <p style="text-align: center;">
   <a href="https://github.com/LanceHuang245" target="_blank" rel="noopener noreferrer" class="btn">View More Projects on GitHub</a>
 </p>
 
-Internships
+Professional Experience
 ======
-* **Xiamen Xunlian Information Technology Co., Ltd. (Bitdinosaur Technology Co., Ltd.)** (2025.09 - 2026.03)
-    * Engineered a proactive risk-monitoring module in Go using complex PostgreSQL views to automatically identify and
-    flag anomalous account and IP activities, significantly enhancing platform security
-    * Optimized API performance by restructuring user data views, reducing API response times by over 99% (from 1,700ms
-    to <180ms) and tangibly improving user experience
-    * Designed and implemented a comprehensive backend data dashboard API, providing real-time data support for internal management and on-chain address risk tracking capabilities
-    * Re-engineered notification push, IAM, and subscription systems based on microservices architecture, doubling scalability and maintainability while adding features like notification template rendering
+
+**Software Engineer Intern**  
+Xiamen Xunlian Information Technology Co., Ltd. (Bitdinosaur Technology Co., Ltd.), Xiamen, Fujian  
+September 2025 – March 2026
+
+- Engineered a proactive risk-monitoring module in Go, leveraging PostgreSQL
+  views to automatically detect and flag anomalous account and IP behaviors
+- Refactored user data access layers, reducing API response latency from
+  approximately 1,700 ms to under 180 ms (>99% reduction)
+- Designed and implemented a backend analytics dashboard API providing
+  real-time operational data for internal management and on-chain address risk
+  assessment
+- Re-architected notification push, IAM, and subscription systems under a
+  microservices paradigm, improving scalability, maintainability, and feature
+  extensibility
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
-Awards & Honors
+Honors & Awards
 ======
-*   Third Prize, Huawei ICT Competition (Programming Track), Fujian Province, 2025
-*   Third Prize, Huawei ICT Competition (Linux Track), Fujian Province, 2023
-*   Second Prize, Program Algorithm Design Competition, Quanzhou Vocational and Technical University, 2022
+- Third Prize, Huawei ICT Competition, Programming Track, Fujian Province (2025)
+- Third Prize, Huawei ICT Competition, Linux Track, Fujian Province (2023)
+- Second Prize, Program Algorithm Design Competition, Quanzhou Vocational and
+  Technical University (2022)
 
-Skills
+Technical Skills
 ======
-*   **Programming Languages**
-    *   Proficient: Golang, Dart, Python
-    *   Familiar: Vue.js, JavaScript, C++
-*   **Frameworks & Tools**
-    *   Backend: Flask, RabbitMQ, Consul, Redis, MySQL, PostgreSQL
-    *   Frontend: Vue.js, Flutter
-    *   AI & ML: PyTorch, Tensorflow, Transformers
-*   **DevOps & Cloud**
-    *   Containerization & Orchestration: Docker
-    *   CI/CD: Basic CI/CD pipelines with Git
-    *   Infrastructure: Linux server administration, Nginx
-*   **Machine Learning**
-    *   Model training & fine-tuning, data preprocessing, evaluation metrics
+**Programming Languages**  
+Proficient: Go, Dart, Python  
+Familiar: JavaScript, C++
+
+**Frameworks & Libraries**  
+Backend: Flask, RabbitMQ, Consul, Redis, MySQL, PostgreSQL  
+Frontend & Mobile: Vue.js, React, Flutter  
+Machine Learning: PyTorch, TensorFlow, Hugging Face Transformers
+
+**Systems & Infrastructure**  
+Docker, Linux server administration, Nginx, Git-based CI/CD pipelines
