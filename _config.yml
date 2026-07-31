@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Linxing Huang"
   pronouns         : "he/him" 
-  bio              : "Quanzhou Vocational and Technical University major in Computer Application Engineering with focus on Artificial Intelligence"
-  location         : "Quanzhou, China"
-  employer         : "QVTU"
+  bio              : 
+  location         : "Zhangzhou, China"
+  employer         : 
   uri              : # URL
-  email            : "LanceHuang245@outlook.com" 
+  email            : "lancehuang245@outlook.com" 
 
   # Academic websites
   academia         : # URL
@@ -64,13 +64,13 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/huanglinxing/"
+  linkedin         : "huanglinxing"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "https://t.me/ClaretWheel1481"
+  telegram         : # Username
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
