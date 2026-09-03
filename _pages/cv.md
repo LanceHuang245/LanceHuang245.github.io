@@ -19,6 +19,10 @@ Education
 Quanzhou Vocational and Technical University, Quanzhou, Fujian, China  
 September 2022 – June 2026 | GPA: 80.92/100
 
+**Master of Engineering, Software Engineering**  
+University of Tartu, Tartu, Estonia  
+September 2026 – Present
+
 Technical Projects
 ======
 
